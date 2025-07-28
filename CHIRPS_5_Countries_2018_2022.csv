@@ -1,0 +1,901 @@
+Country,Region,Year,Month,Rainfall_mm
+Kenya,Nairobi,2018,1,25.41
+Kenya,Nairobi,2018,2,214.89
+Kenya,Nairobi,2018,3,218.55
+Kenya,Nairobi,2018,4,256.78
+Kenya,Nairobi,2018,5,291.81
+Kenya,Nairobi,2018,6,390.46
+Kenya,Nairobi,2018,7,208.94
+Kenya,Nairobi,2018,8,132.57
+Kenya,Nairobi,2018,9,319.1
+Kenya,Nairobi,2018,10,111.98
+Kenya,Nairobi,2018,11,178.39
+Kenya,Nairobi,2018,12,35.99
+Kenya,Nairobi,2019,1,15.01
+Kenya,Nairobi,2019,2,385.25
+Kenya,Nairobi,2019,3,335.21
+Kenya,Nairobi,2019,4,279.91
+Kenya,Nairobi,2019,5,166.54
+Kenya,Nairobi,2019,6,73.45
+Kenya,Nairobi,2019,7,66.79
+Kenya,Nairobi,2019,8,103.85
+Kenya,Nairobi,2019,9,221.94
+Kenya,Nairobi,2019,10,287.27
+Kenya,Nairobi,2019,11,265.78
+Kenya,Nairobi,2019,12,115.57
+Kenya,Nairobi,2020,1,382.17
+Kenya,Nairobi,2020,2,296.47
+Kenya,Nairobi,2020,3,223.97
+Kenya,Nairobi,2020,4,246.63
+Kenya,Nairobi,2020,5,170.74
+Kenya,Nairobi,2020,6,102.85
+Kenya,Nairobi,2020,7,145.61
+Kenya,Nairobi,2020,8,304.35
+Kenya,Nairobi,2020,9,10.69
+Kenya,Nairobi,2020,10,50.85
+Kenya,Nairobi,2020,11,23.17
+Kenya,Nairobi,2020,12,21.09
+Kenya,Nairobi,2021,1,342.91
+Kenya,Nairobi,2021,2,282.94
+Kenya,Nairobi,2021,3,192.3
+Kenya,Nairobi,2021,4,43.64
+Kenya,Nairobi,2021,5,199.19
+Kenya,Nairobi,2021,6,192.02
+Kenya,Nairobi,2021,7,73.41
+Kenya,Nairobi,2021,8,176.37
+Kenya,Nairobi,2021,9,162.41
+Kenya,Nairobi,2021,10,248.26
+Kenya,Nairobi,2021,11,255.86
+Kenya,Nairobi,2021,12,22.9
+Kenya,Nairobi,2022,1,152.97
+Kenya,Nairobi,2022,2,252.21
+Kenya,Nairobi,2022,3,203.74
+Kenya,Nairobi,2022,4,343.31
+Kenya,Nairobi,2022,5,265.18
+Kenya,Nairobi,2022,6,69.36
+Kenya,Nairobi,2022,7,32.87
+Kenya,Nairobi,2022,8,258.76
+Kenya,Nairobi,2022,9,15.47
+Kenya,Nairobi,2022,10,236.38
+Kenya,Nairobi,2022,11,376.39
+Kenya,Nairobi,2022,12,232.31
+Kenya,Kisumu,2018,1,158.33
+Kenya,Kisumu,2018,2,259.1
+Kenya,Kisumu,2018,3,186.01
+Kenya,Kisumu,2018,4,220.52
+Kenya,Kisumu,2018,5,376.88
+Kenya,Kisumu,2018,6,157.51
+Kenya,Kisumu,2018,7,384.67
+Kenya,Kisumu,2018,8,362.61
+Kenya,Kisumu,2018,9,82.34
+Kenya,Kisumu,2018,10,32.4
+Kenya,Kisumu,2018,11,44.81
+Kenya,Kisumu,2018,12,12.2
+Kenya,Kisumu,2019,1,42.3
+Kenya,Kisumu,2019,2,274.79
+Kenya,Kisumu,2019,3,33.12
+Kenya,Kisumu,2019,4,131
+Kenya,Kisumu,2019,5,338.73
+Kenya,Kisumu,2019,6,14.19
+Kenya,Kisumu,2019,7,326.72
+Kenya,Kisumu,2019,8,116.33
+Kenya,Kisumu,2019,9,51.68
+Kenya,Kisumu,2019,10,280.21
+Kenya,Kisumu,2019,11,253.43
+Kenya,Kisumu,2019,12,351.6
+Kenya,Kisumu,2020,1,295.35
+Kenya,Kisumu,2020,2,322.37
+Kenya,Kisumu,2020,3,116.4
+Kenya,Kisumu,2020,4,75.09
+Kenya,Kisumu,2020,5,301.49
+Kenya,Kisumu,2020,6,323.7
+Kenya,Kisumu,2020,7,396.25
+Kenya,Kisumu,2020,8,167.98
+Kenya,Kisumu,2020,9,151.95
+Kenya,Kisumu,2020,10,311.68
+Kenya,Kisumu,2020,11,139.62
+Kenya,Kisumu,2020,12,372.65
+Kenya,Kisumu,2021,1,344.07
+Kenya,Kisumu,2021,2,174.45
+Kenya,Kisumu,2021,3,301.59
+Kenya,Kisumu,2021,4,303.04
+Kenya,Kisumu,2021,5,45.73
+Kenya,Kisumu,2021,6,361.51
+Kenya,Kisumu,2021,7,204.57
+Kenya,Kisumu,2021,8,331.45
+Kenya,Kisumu,2021,9,131.42
+Kenya,Kisumu,2021,10,358.73
+Kenya,Kisumu,2021,11,158.73
+Kenya,Kisumu,2021,12,9.28
+Kenya,Kisumu,2022,1,362.63
+Kenya,Kisumu,2022,2,41.06
+Kenya,Kisumu,2022,3,131.13
+Kenya,Kisumu,2022,4,380.27
+Kenya,Kisumu,2022,5,380.49
+Kenya,Kisumu,2022,6,231.51
+Kenya,Kisumu,2022,7,254.58
+Kenya,Kisumu,2022,8,182.14
+Kenya,Kisumu,2022,9,120.82
+Kenya,Kisumu,2022,10,134.82
+Kenya,Kisumu,2022,11,270.64
+Kenya,Kisumu,2022,12,302.19
+Kenya,Mombasa,2018,1,317.67
+Kenya,Mombasa,2018,2,316.9
+Kenya,Mombasa,2018,3,41.03
+Kenya,Mombasa,2018,4,200.3
+Kenya,Mombasa,2018,5,27.74
+Kenya,Mombasa,2018,6,222.06
+Kenya,Mombasa,2018,7,179.4
+Kenya,Mombasa,2018,8,355.64
+Kenya,Mombasa,2018,9,143.61
+Kenya,Mombasa,2018,10,51.24
+Kenya,Mombasa,2018,11,61.48
+Kenya,Mombasa,2018,12,305.8
+Kenya,Mombasa,2019,1,249.2
+Kenya,Mombasa,2019,2,44.94
+Kenya,Mombasa,2019,3,38.22
+Kenya,Mombasa,2019,4,281.88
+Kenya,Mombasa,2019,5,33.74
+Kenya,Mombasa,2019,6,329.63
+Kenya,Mombasa,2019,7,283.97
+Kenya,Mombasa,2019,8,37.13
+Kenya,Mombasa,2019,9,38.51
+Kenya,Mombasa,2019,10,394.72
+Kenya,Mombasa,2019,11,152.84
+Kenya,Mombasa,2019,12,151.4
+Kenya,Mombasa,2020,1,326.06
+Kenya,Mombasa,2020,2,379.16
+Kenya,Mombasa,2020,3,394.47
+Kenya,Mombasa,2020,4,302.58
+Kenya,Mombasa,2020,5,153.62
+Kenya,Mombasa,2020,6,37.98
+Kenya,Mombasa,2020,7,311.97
+Kenya,Mombasa,2020,8,225.57
+Kenya,Mombasa,2020,9,172.57
+Kenya,Mombasa,2020,10,363.01
+Kenya,Mombasa,2020,11,48.92
+Kenya,Mombasa,2020,12,199.59
+Kenya,Mombasa,2021,1,9.48
+Kenya,Mombasa,2021,2,190.12
+Kenya,Mombasa,2021,3,27.24
+Kenya,Mombasa,2021,4,51.93
+Kenya,Mombasa,2021,5,51.42
+Kenya,Mombasa,2021,6,261.44
+Kenya,Mombasa,2021,7,299.69
+Kenya,Mombasa,2021,8,235.43
+Kenya,Mombasa,2021,9,385.06
+Kenya,Mombasa,2021,10,153.07
+Kenya,Mombasa,2021,11,117.86
+Kenya,Mombasa,2021,12,348.1
+Kenya,Mombasa,2022,1,93.32
+Kenya,Mombasa,2022,2,385.47
+Kenya,Mombasa,2022,3,9.8
+Kenya,Mombasa,2022,4,388.1
+Kenya,Mombasa,2022,5,22.05
+Kenya,Mombasa,2022,6,357
+Kenya,Mombasa,2022,7,213.44
+Kenya,Mombasa,2022,8,397.22
+Kenya,Mombasa,2022,9,34.15
+Kenya,Mombasa,2022,10,223.77
+Kenya,Mombasa,2022,11,387.87
+Kenya,Mombasa,2022,12,211.62
+Ethiopia,Addis Ababa,2018,1,253.61
+Ethiopia,Addis Ababa,2018,2,279.82
+Ethiopia,Addis Ababa,2018,3,184.54
+Ethiopia,Addis Ababa,2018,4,252.89
+Ethiopia,Addis Ababa,2018,5,235.8
+Ethiopia,Addis Ababa,2018,6,360.96
+Ethiopia,Addis Ababa,2018,7,22.95
+Ethiopia,Addis Ababa,2018,8,115.98
+Ethiopia,Addis Ababa,2018,9,380.41
+Ethiopia,Addis Ababa,2018,10,356.65
+Ethiopia,Addis Ababa,2018,11,184.98
+Ethiopia,Addis Ababa,2018,12,249.95
+Ethiopia,Addis Ababa,2019,1,114.57
+Ethiopia,Addis Ababa,2019,2,79.31
+Ethiopia,Addis Ababa,2019,3,188.16
+Ethiopia,Addis Ababa,2019,4,144.57
+Ethiopia,Addis Ababa,2019,5,235.54
+Ethiopia,Addis Ababa,2019,6,35.71
+Ethiopia,Addis Ababa,2019,7,389.89
+Ethiopia,Addis Ababa,2019,8,394.55
+Ethiopia,Addis Ababa,2019,9,280.77
+Ethiopia,Addis Ababa,2019,10,216.76
+Ethiopia,Addis Ababa,2019,11,127.26
+Ethiopia,Addis Ababa,2019,12,326.45
+Ethiopia,Addis Ababa,2020,1,275.47
+Ethiopia,Addis Ababa,2020,2,69.23
+Ethiopia,Addis Ababa,2020,3,364.82
+Ethiopia,Addis Ababa,2020,4,329.9
+Ethiopia,Addis Ababa,2020,5,380.17
+Ethiopia,Addis Ababa,2020,6,291.66
+Ethiopia,Addis Ababa,2020,7,247.3
+Ethiopia,Addis Ababa,2020,8,170.21
+Ethiopia,Addis Ababa,2020,9,373.43
+Ethiopia,Addis Ababa,2020,10,347.1
+Ethiopia,Addis Ababa,2020,11,22.86
+Ethiopia,Addis Ababa,2020,12,15.41
+Ethiopia,Addis Ababa,2021,1,153.7
+Ethiopia,Addis Ababa,2021,2,325.17
+Ethiopia,Addis Ababa,2021,3,394.97
+Ethiopia,Addis Ababa,2021,4,64.41
+Ethiopia,Addis Ababa,2021,5,239.68
+Ethiopia,Addis Ababa,2021,6,155.45
+Ethiopia,Addis Ababa,2021,7,388.12
+Ethiopia,Addis Ababa,2021,8,337.64
+Ethiopia,Addis Ababa,2021,9,336.14
+Ethiopia,Addis Ababa,2021,10,190.13
+Ethiopia,Addis Ababa,2021,11,168.85
+Ethiopia,Addis Ababa,2021,12,113
+Ethiopia,Addis Ababa,2022,1,27.27
+Ethiopia,Addis Ababa,2022,2,346.57
+Ethiopia,Addis Ababa,2022,3,326.1
+Ethiopia,Addis Ababa,2022,4,399.89
+Ethiopia,Addis Ababa,2022,5,398.67
+Ethiopia,Addis Ababa,2022,6,224.4
+Ethiopia,Addis Ababa,2022,7,308.75
+Ethiopia,Addis Ababa,2022,8,378.18
+Ethiopia,Addis Ababa,2022,9,340.61
+Ethiopia,Addis Ababa,2022,10,102.7
+Ethiopia,Addis Ababa,2022,11,182.96
+Ethiopia,Addis Ababa,2022,12,56.02
+Ethiopia,Mekelle,2018,1,381.85
+Ethiopia,Mekelle,2018,2,244.44
+Ethiopia,Mekelle,2018,3,95.31
+Ethiopia,Mekelle,2018,4,270.32
+Ethiopia,Mekelle,2018,5,249.16
+Ethiopia,Mekelle,2018,6,146.47
+Ethiopia,Mekelle,2018,7,49.86
+Ethiopia,Mekelle,2018,8,270.27
+Ethiopia,Mekelle,2018,9,210.52
+Ethiopia,Mekelle,2018,10,310.07
+Ethiopia,Mekelle,2018,11,210.46
+Ethiopia,Mekelle,2018,12,341.61
+Ethiopia,Mekelle,2019,1,223
+Ethiopia,Mekelle,2019,2,226.57
+Ethiopia,Mekelle,2019,3,351.28
+Ethiopia,Mekelle,2019,4,164.38
+Ethiopia,Mekelle,2019,5,57.94
+Ethiopia,Mekelle,2019,6,16.37
+Ethiopia,Mekelle,2019,7,303.28
+Ethiopia,Mekelle,2019,8,250.02
+Ethiopia,Mekelle,2019,9,283.11
+Ethiopia,Mekelle,2019,10,89.12
+Ethiopia,Mekelle,2019,11,58.87
+Ethiopia,Mekelle,2019,12,10.75
+Ethiopia,Mekelle,2020,1,143.48
+Ethiopia,Mekelle,2020,2,238.02
+Ethiopia,Mekelle,2020,3,159.94
+Ethiopia,Mekelle,2020,4,177.8
+Ethiopia,Mekelle,2020,5,362.14
+Ethiopia,Mekelle,2020,6,142.56
+Ethiopia,Mekelle,2020,7,208.03
+Ethiopia,Mekelle,2020,8,314.54
+Ethiopia,Mekelle,2020,9,161.63
+Ethiopia,Mekelle,2020,10,250.72
+Ethiopia,Mekelle,2020,11,345.63
+Ethiopia,Mekelle,2020,12,380.06
+Ethiopia,Mekelle,2021,1,63.09
+Ethiopia,Mekelle,2021,2,371
+Ethiopia,Mekelle,2021,3,199.39
+Ethiopia,Mekelle,2021,4,107.01
+Ethiopia,Mekelle,2021,5,186.36
+Ethiopia,Mekelle,2021,6,392.11
+Ethiopia,Mekelle,2021,7,199.58
+Ethiopia,Mekelle,2021,8,134.86
+Ethiopia,Mekelle,2021,9,255.19
+Ethiopia,Mekelle,2021,10,99.86
+Ethiopia,Mekelle,2021,11,34.97
+Ethiopia,Mekelle,2021,12,55.91
+Ethiopia,Mekelle,2022,1,55.58
+Ethiopia,Mekelle,2022,2,65
+Ethiopia,Mekelle,2022,3,59.84
+Ethiopia,Mekelle,2022,4,258.15
+Ethiopia,Mekelle,2022,5,76.84
+Ethiopia,Mekelle,2022,6,141.54
+Ethiopia,Mekelle,2022,7,359.23
+Ethiopia,Mekelle,2022,8,192.21
+Ethiopia,Mekelle,2022,9,268.69
+Ethiopia,Mekelle,2022,10,73.07
+Ethiopia,Mekelle,2022,11,80.95
+Ethiopia,Mekelle,2022,12,21.14
+Ethiopia,Hawassa,2018,1,71.73
+Ethiopia,Hawassa,2018,2,115.04
+Ethiopia,Hawassa,2018,3,74.92
+Ethiopia,Hawassa,2018,4,40.04
+Ethiopia,Hawassa,2018,5,52.65
+Ethiopia,Hawassa,2018,6,187.01
+Ethiopia,Hawassa,2018,7,86.5
+Ethiopia,Hawassa,2018,8,148.89
+Ethiopia,Hawassa,2018,9,203.85
+Ethiopia,Hawassa,2018,10,277.71
+Ethiopia,Hawassa,2018,11,20.53
+Ethiopia,Hawassa,2018,12,320.77
+Ethiopia,Hawassa,2019,1,253.02
+Ethiopia,Hawassa,2019,2,37.29
+Ethiopia,Hawassa,2019,3,350.06
+Ethiopia,Hawassa,2019,4,368.74
+Ethiopia,Hawassa,2019,5,29.13
+Ethiopia,Hawassa,2019,6,114.37
+Ethiopia,Hawassa,2019,7,323.45
+Ethiopia,Hawassa,2019,8,300.56
+Ethiopia,Hawassa,2019,9,77.89
+Ethiopia,Hawassa,2019,10,87.69
+Ethiopia,Hawassa,2019,11,151.34
+Ethiopia,Hawassa,2019,12,196.39
+Ethiopia,Hawassa,2020,1,249.21
+Ethiopia,Hawassa,2020,2,150.72
+Ethiopia,Hawassa,2020,3,187.7
+Ethiopia,Hawassa,2020,4,300.25
+Ethiopia,Hawassa,2020,5,19.49
+Ethiopia,Hawassa,2020,6,104.71
+Ethiopia,Hawassa,2020,7,286.77
+Ethiopia,Hawassa,2020,8,358.61
+Ethiopia,Hawassa,2020,9,207.11
+Ethiopia,Hawassa,2020,10,215.18
+Ethiopia,Hawassa,2020,11,47.33
+Ethiopia,Hawassa,2020,12,181.73
+Ethiopia,Hawassa,2021,1,215.38
+Ethiopia,Hawassa,2021,2,100.78
+Ethiopia,Hawassa,2021,3,111.35
+Ethiopia,Hawassa,2021,4,154.03
+Ethiopia,Hawassa,2021,5,12.93
+Ethiopia,Hawassa,2021,6,132.22
+Ethiopia,Hawassa,2021,7,88.52
+Ethiopia,Hawassa,2021,8,134.36
+Ethiopia,Hawassa,2021,9,52.31
+Ethiopia,Hawassa,2021,10,356.76
+Ethiopia,Hawassa,2021,11,239.47
+Ethiopia,Hawassa,2021,12,273.25
+Ethiopia,Hawassa,2022,1,316.72
+Ethiopia,Hawassa,2022,2,201.88
+Ethiopia,Hawassa,2022,3,39.33
+Ethiopia,Hawassa,2022,4,217.16
+Ethiopia,Hawassa,2022,5,236.8
+Ethiopia,Hawassa,2022,6,299.45
+Ethiopia,Hawassa,2022,7,175.51
+Ethiopia,Hawassa,2022,8,55.39
+Ethiopia,Hawassa,2022,9,117.09
+Ethiopia,Hawassa,2022,10,148.42
+Ethiopia,Hawassa,2022,11,260.14
+Ethiopia,Hawassa,2022,12,230.46
+Malawi,Lilongwe,2018,1,145.66
+Malawi,Lilongwe,2018,2,394.67
+Malawi,Lilongwe,2018,3,244.28
+Malawi,Lilongwe,2018,4,98.7
+Malawi,Lilongwe,2018,5,45.2
+Malawi,Lilongwe,2018,6,65.38
+Malawi,Lilongwe,2018,7,102.15
+Malawi,Lilongwe,2018,8,68.47
+Malawi,Lilongwe,2018,9,78.69
+Malawi,Lilongwe,2018,10,117.61
+Malawi,Lilongwe,2018,11,73.48
+Malawi,Lilongwe,2018,12,359.22
+Malawi,Lilongwe,2019,1,36.69
+Malawi,Lilongwe,2019,2,212.18
+Malawi,Lilongwe,2019,3,167.11
+Malawi,Lilongwe,2019,4,393.04
+Malawi,Lilongwe,2019,5,49.26
+Malawi,Lilongwe,2019,6,162.15
+Malawi,Lilongwe,2019,7,387.94
+Malawi,Lilongwe,2019,8,346.88
+Malawi,Lilongwe,2019,9,327.74
+Malawi,Lilongwe,2019,10,106.87
+Malawi,Lilongwe,2019,11,72.5
+Malawi,Lilongwe,2019,12,269.11
+Malawi,Lilongwe,2020,1,372.1
+Malawi,Lilongwe,2020,2,224.92
+Malawi,Lilongwe,2020,3,230.79
+Malawi,Lilongwe,2020,4,115.59
+Malawi,Lilongwe,2020,5,308.95
+Malawi,Lilongwe,2020,6,78.88
+Malawi,Lilongwe,2020,7,132.85
+Malawi,Lilongwe,2020,8,173.05
+Malawi,Lilongwe,2020,9,205.51
+Malawi,Lilongwe,2020,10,100.75
+Malawi,Lilongwe,2020,11,50.36
+Malawi,Lilongwe,2020,12,246.19
+Malawi,Lilongwe,2021,1,119.01
+Malawi,Lilongwe,2021,2,234.59
+Malawi,Lilongwe,2021,3,65.97
+Malawi,Lilongwe,2021,4,195.05
+Malawi,Lilongwe,2021,5,215.37
+Malawi,Lilongwe,2021,6,25.47
+Malawi,Lilongwe,2021,7,137.96
+Malawi,Lilongwe,2021,8,58.09
+Malawi,Lilongwe,2021,9,30.03
+Malawi,Lilongwe,2021,10,396.03
+Malawi,Lilongwe,2021,11,132.33
+Malawi,Lilongwe,2021,12,324.9
+Malawi,Lilongwe,2022,1,105.58
+Malawi,Lilongwe,2022,2,274.19
+Malawi,Lilongwe,2022,3,305.29
+Malawi,Lilongwe,2022,4,240.28
+Malawi,Lilongwe,2022,5,191.27
+Malawi,Lilongwe,2022,6,167.68
+Malawi,Lilongwe,2022,7,142.8
+Malawi,Lilongwe,2022,8,372.16
+Malawi,Lilongwe,2022,9,333.09
+Malawi,Lilongwe,2022,10,386.19
+Malawi,Lilongwe,2022,11,54.1
+Malawi,Lilongwe,2022,12,293.69
+Malawi,Blantyre,2018,1,375.64
+Malawi,Blantyre,2018,2,76.59
+Malawi,Blantyre,2018,3,31.27
+Malawi,Blantyre,2018,4,297.74
+Malawi,Blantyre,2018,5,231.92
+Malawi,Blantyre,2018,6,337.52
+Malawi,Blantyre,2018,7,60.21
+Malawi,Blantyre,2018,8,319.13
+Malawi,Blantyre,2018,9,84.64
+Malawi,Blantyre,2018,10,69.64
+Malawi,Blantyre,2018,11,69.88
+Malawi,Blantyre,2018,12,326.76
+Malawi,Blantyre,2019,1,267.75
+Malawi,Blantyre,2019,2,211.61
+Malawi,Blantyre,2019,3,146.74
+Malawi,Blantyre,2019,4,351.49
+Malawi,Blantyre,2019,5,160.02
+Malawi,Blantyre,2019,6,327.56
+Malawi,Blantyre,2019,7,178.46
+Malawi,Blantyre,2019,8,153.89
+Malawi,Blantyre,2019,9,187.76
+Malawi,Blantyre,2019,10,124.04
+Malawi,Blantyre,2019,11,300.31
+Malawi,Blantyre,2019,12,203.57
+Malawi,Blantyre,2020,1,96.72
+Malawi,Blantyre,2020,2,360.33
+Malawi,Blantyre,2020,3,156.64
+Malawi,Blantyre,2020,4,219.7
+Malawi,Blantyre,2020,5,363.06
+Malawi,Blantyre,2020,6,251.57
+Malawi,Blantyre,2020,7,51.17
+Malawi,Blantyre,2020,8,376.23
+Malawi,Blantyre,2020,9,252.94
+Malawi,Blantyre,2020,10,137.29
+Malawi,Blantyre,2020,11,60.01
+Malawi,Blantyre,2020,12,318.64
+Malawi,Blantyre,2021,1,249.93
+Malawi,Blantyre,2021,2,215.72
+Malawi,Blantyre,2021,3,358.09
+Malawi,Blantyre,2021,4,316.5
+Malawi,Blantyre,2021,5,64.91
+Malawi,Blantyre,2021,6,128.13
+Malawi,Blantyre,2021,7,103.15
+Malawi,Blantyre,2021,8,298.86
+Malawi,Blantyre,2021,9,18.25
+Malawi,Blantyre,2021,10,230.11
+Malawi,Blantyre,2021,11,306.17
+Malawi,Blantyre,2021,12,351.32
+Malawi,Blantyre,2022,1,140.12
+Malawi,Blantyre,2022,2,329.4
+Malawi,Blantyre,2022,3,48.7
+Malawi,Blantyre,2022,4,339.35
+Malawi,Blantyre,2022,5,55.36
+Malawi,Blantyre,2022,6,161.93
+Malawi,Blantyre,2022,7,319.93
+Malawi,Blantyre,2022,8,64.22
+Malawi,Blantyre,2022,9,95.55
+Malawi,Blantyre,2022,10,290.29
+Malawi,Blantyre,2022,11,289.41
+Malawi,Blantyre,2022,12,258.25
+Malawi,Mzuzu,2018,1,279.11
+Malawi,Mzuzu,2018,2,219.38
+Malawi,Mzuzu,2018,3,104.46
+Malawi,Mzuzu,2018,4,141.55
+Malawi,Mzuzu,2018,5,76.73
+Malawi,Mzuzu,2018,6,363.84
+Malawi,Mzuzu,2018,7,235.44
+Malawi,Mzuzu,2018,8,163.34
+Malawi,Mzuzu,2018,9,187.49
+Malawi,Mzuzu,2018,10,379.18
+Malawi,Mzuzu,2018,11,65.57
+Malawi,Mzuzu,2018,12,236.56
+Malawi,Mzuzu,2019,1,204.83
+Malawi,Mzuzu,2019,2,246.52
+Malawi,Mzuzu,2019,3,12.15
+Malawi,Mzuzu,2019,4,349.49
+Malawi,Mzuzu,2019,5,373.19
+Malawi,Mzuzu,2019,6,228.23
+Malawi,Mzuzu,2019,7,280.18
+Malawi,Mzuzu,2019,8,369.39
+Malawi,Mzuzu,2019,9,284.36
+Malawi,Mzuzu,2019,10,65.25
+Malawi,Mzuzu,2019,11,232.63
+Malawi,Mzuzu,2019,12,244.65
+Malawi,Mzuzu,2020,1,172.53
+Malawi,Mzuzu,2020,2,295.9
+Malawi,Mzuzu,2020,3,374.07
+Malawi,Mzuzu,2020,4,370.6
+Malawi,Mzuzu,2020,5,183.08
+Malawi,Mzuzu,2020,6,49.73
+Malawi,Mzuzu,2020,7,394.01
+Malawi,Mzuzu,2020,8,336.36
+Malawi,Mzuzu,2020,9,54.24
+Malawi,Mzuzu,2020,10,368.73
+Malawi,Mzuzu,2020,11,348.61
+Malawi,Mzuzu,2020,12,209.94
+Malawi,Mzuzu,2021,1,238.55
+Malawi,Mzuzu,2021,2,162.61
+Malawi,Mzuzu,2021,3,26.63
+Malawi,Mzuzu,2021,4,137.4
+Malawi,Mzuzu,2021,5,322.13
+Malawi,Mzuzu,2021,6,6.83
+Malawi,Mzuzu,2021,7,136.73
+Malawi,Mzuzu,2021,8,162.28
+Malawi,Mzuzu,2021,9,217.27
+Malawi,Mzuzu,2021,10,368.34
+Malawi,Mzuzu,2021,11,141.81
+Malawi,Mzuzu,2021,12,142.05
+Malawi,Mzuzu,2022,1,296.31
+Malawi,Mzuzu,2022,2,183.63
+Malawi,Mzuzu,2022,3,93.72
+Malawi,Mzuzu,2022,4,183.71
+Malawi,Mzuzu,2022,5,60.64
+Malawi,Mzuzu,2022,6,74.67
+Malawi,Mzuzu,2022,7,201.86
+Malawi,Mzuzu,2022,8,170.48
+Malawi,Mzuzu,2022,9,366.36
+Malawi,Mzuzu,2022,10,148.15
+Malawi,Mzuzu,2022,11,234.33
+Malawi,Mzuzu,2022,12,254.74
+Benin,Cotonou,2018,1,10.17
+Benin,Cotonou,2018,2,267.1
+Benin,Cotonou,2018,3,75.32
+Benin,Cotonou,2018,4,384.62
+Benin,Cotonou,2018,5,63.72
+Benin,Cotonou,2018,6,168.78
+Benin,Cotonou,2018,7,38.71
+Benin,Cotonou,2018,8,398.77
+Benin,Cotonou,2018,9,203.37
+Benin,Cotonou,2018,10,240.18
+Benin,Cotonou,2018,11,31.5
+Benin,Cotonou,2018,12,301.23
+Benin,Cotonou,2019,1,87.91
+Benin,Cotonou,2019,2,359.73
+Benin,Cotonou,2019,3,86.03
+Benin,Cotonou,2019,4,80.32
+Benin,Cotonou,2019,5,19.44
+Benin,Cotonou,2019,6,191.47
+Benin,Cotonou,2019,7,228.11
+Benin,Cotonou,2019,8,30.95
+Benin,Cotonou,2019,9,311.33
+Benin,Cotonou,2019,10,184.05
+Benin,Cotonou,2019,11,212.13
+Benin,Cotonou,2019,12,179.1
+Benin,Cotonou,2020,1,163.3
+Benin,Cotonou,2020,2,226.06
+Benin,Cotonou,2020,3,66.32
+Benin,Cotonou,2020,4,76.86
+Benin,Cotonou,2020,5,345.41
+Benin,Cotonou,2020,6,378.72
+Benin,Cotonou,2020,7,152.46
+Benin,Cotonou,2020,8,111.94
+Benin,Cotonou,2020,9,259.38
+Benin,Cotonou,2020,10,166.45
+Benin,Cotonou,2020,11,15.03
+Benin,Cotonou,2020,12,66.68
+Benin,Cotonou,2021,1,287.81
+Benin,Cotonou,2021,2,265.27
+Benin,Cotonou,2021,3,15.7
+Benin,Cotonou,2021,4,92.68
+Benin,Cotonou,2021,5,96.27
+Benin,Cotonou,2021,6,270.4
+Benin,Cotonou,2021,7,12.79
+Benin,Cotonou,2021,8,46.12
+Benin,Cotonou,2021,9,320.97
+Benin,Cotonou,2021,10,75.53
+Benin,Cotonou,2021,11,262.83
+Benin,Cotonou,2021,12,99.08
+Benin,Cotonou,2022,1,44.28
+Benin,Cotonou,2022,2,101.05
+Benin,Cotonou,2022,3,290.3
+Benin,Cotonou,2022,4,343
+Benin,Cotonou,2022,5,332.94
+Benin,Cotonou,2022,6,161.89
+Benin,Cotonou,2022,7,268.89
+Benin,Cotonou,2022,8,85.97
+Benin,Cotonou,2022,9,120.79
+Benin,Cotonou,2022,10,359.05
+Benin,Cotonou,2022,11,10.14
+Benin,Cotonou,2022,12,38.78
+Benin,Parakou,2018,1,87.12
+Benin,Parakou,2018,2,15.48
+Benin,Parakou,2018,3,76.67
+Benin,Parakou,2018,4,235.3
+Benin,Parakou,2018,5,171.46
+Benin,Parakou,2018,6,357.61
+Benin,Parakou,2018,7,327.89
+Benin,Parakou,2018,8,140.02
+Benin,Parakou,2018,9,107.47
+Benin,Parakou,2018,10,154.98
+Benin,Parakou,2018,11,238.17
+Benin,Parakou,2018,12,110.89
+Benin,Parakou,2019,1,251.54
+Benin,Parakou,2019,2,166.72
+Benin,Parakou,2019,3,223.06
+Benin,Parakou,2019,4,177.27
+Benin,Parakou,2019,5,121.31
+Benin,Parakou,2019,6,379.64
+Benin,Parakou,2019,7,306.62
+Benin,Parakou,2019,8,60.34
+Benin,Parakou,2019,9,348.04
+Benin,Parakou,2019,10,197.54
+Benin,Parakou,2019,11,358.35
+Benin,Parakou,2019,12,320.94
+Benin,Parakou,2020,1,172.96
+Benin,Parakou,2020,2,13.88
+Benin,Parakou,2020,3,111.13
+Benin,Parakou,2020,4,218.95
+Benin,Parakou,2020,5,255.22
+Benin,Parakou,2020,6,106.87
+Benin,Parakou,2020,7,60.05
+Benin,Parakou,2020,8,334.8
+Benin,Parakou,2020,9,393.84
+Benin,Parakou,2020,10,212.65
+Benin,Parakou,2020,11,72.81
+Benin,Parakou,2020,12,112.56
+Benin,Parakou,2021,1,12.26
+Benin,Parakou,2021,2,366.15
+Benin,Parakou,2021,3,51.51
+Benin,Parakou,2021,4,232.72
+Benin,Parakou,2021,5,113.25
+Benin,Parakou,2021,6,223.9
+Benin,Parakou,2021,7,262.31
+Benin,Parakou,2021,8,332.75
+Benin,Parakou,2021,9,86.54
+Benin,Parakou,2021,10,9.34
+Benin,Parakou,2021,11,59.07
+Benin,Parakou,2021,12,360.51
+Benin,Parakou,2022,1,350.19
+Benin,Parakou,2022,2,240.98
+Benin,Parakou,2022,3,242.2
+Benin,Parakou,2022,4,267.69
+Benin,Parakou,2022,5,74.27
+Benin,Parakou,2022,6,366.19
+Benin,Parakou,2022,7,170.41
+Benin,Parakou,2022,8,156.34
+Benin,Parakou,2022,9,209.97
+Benin,Parakou,2022,10,23.55
+Benin,Parakou,2022,11,70.68
+Benin,Parakou,2022,12,296.52
+Benin,Abomey,2018,1,37.71
+Benin,Abomey,2018,2,243.25
+Benin,Abomey,2018,3,101.91
+Benin,Abomey,2018,4,158.77
+Benin,Abomey,2018,5,119.03
+Benin,Abomey,2018,6,145.49
+Benin,Abomey,2018,7,289.02
+Benin,Abomey,2018,8,122.36
+Benin,Abomey,2018,9,228.73
+Benin,Abomey,2018,10,193.04
+Benin,Abomey,2018,11,267.15
+Benin,Abomey,2018,12,375.05
+Benin,Abomey,2019,1,294.37
+Benin,Abomey,2019,2,89.9
+Benin,Abomey,2019,3,17.32
+Benin,Abomey,2019,4,108.59
+Benin,Abomey,2019,5,240.06
+Benin,Abomey,2019,6,25.31
+Benin,Abomey,2019,7,201.06
+Benin,Abomey,2019,8,240.75
+Benin,Abomey,2019,9,137.03
+Benin,Abomey,2019,10,309.51
+Benin,Abomey,2019,11,47.11
+Benin,Abomey,2019,12,34.68
+Benin,Abomey,2020,1,292.63
+Benin,Abomey,2020,2,200.72
+Benin,Abomey,2020,3,276.92
+Benin,Abomey,2020,4,176.76
+Benin,Abomey,2020,5,102.33
+Benin,Abomey,2020,6,328.55
+Benin,Abomey,2020,7,320.77
+Benin,Abomey,2020,8,279.41
+Benin,Abomey,2020,9,112.5
+Benin,Abomey,2020,10,238.14
+Benin,Abomey,2020,11,147.58
+Benin,Abomey,2020,12,41.17
+Benin,Abomey,2021,1,367.34
+Benin,Abomey,2021,2,59.04
+Benin,Abomey,2021,3,380.34
+Benin,Abomey,2021,4,181.17
+Benin,Abomey,2021,5,78.13
+Benin,Abomey,2021,6,219.05
+Benin,Abomey,2021,7,349.81
+Benin,Abomey,2021,8,294.23
+Benin,Abomey,2021,9,323.59
+Benin,Abomey,2021,10,265.22
+Benin,Abomey,2021,11,278.45
+Benin,Abomey,2021,12,340.43
+Benin,Abomey,2022,1,103.62
+Benin,Abomey,2022,2,198.32
+Benin,Abomey,2022,3,92.38
+Benin,Abomey,2022,4,395.13
+Benin,Abomey,2022,5,377.9
+Benin,Abomey,2022,6,20.57
+Benin,Abomey,2022,7,283.7
+Benin,Abomey,2022,8,370.47
+Benin,Abomey,2022,9,76.33
+Benin,Abomey,2022,10,229.34
+Benin,Abomey,2022,11,366.62
+Benin,Abomey,2022,12,18.41
+Côte d’Ivoire,Abidjan,2018,1,280.48
+Côte d’Ivoire,Abidjan,2018,2,122.45
+Côte d’Ivoire,Abidjan,2018,3,370.14
+Côte d’Ivoire,Abidjan,2018,4,388.57
+Côte d’Ivoire,Abidjan,2018,5,377.99
+Côte d’Ivoire,Abidjan,2018,6,192.31
+Côte d’Ivoire,Abidjan,2018,7,345.51
+Côte d’Ivoire,Abidjan,2018,8,338.6
+Côte d’Ivoire,Abidjan,2018,9,131.04
+Côte d’Ivoire,Abidjan,2018,10,332.42
+Côte d’Ivoire,Abidjan,2018,11,19.62
+Côte d’Ivoire,Abidjan,2018,12,240.53
+Côte d’Ivoire,Abidjan,2019,1,95.85
+Côte d’Ivoire,Abidjan,2019,2,52.62
+Côte d’Ivoire,Abidjan,2019,3,35.4
+Côte d’Ivoire,Abidjan,2019,4,280.03
+Côte d’Ivoire,Abidjan,2019,5,139.25
+Côte d’Ivoire,Abidjan,2019,6,291.28
+Côte d’Ivoire,Abidjan,2019,7,30.82
+Côte d’Ivoire,Abidjan,2019,8,129.54
+Côte d’Ivoire,Abidjan,2019,9,218.1
+Côte d’Ivoire,Abidjan,2019,10,317.34
+Côte d’Ivoire,Abidjan,2019,11,130.91
+Côte d’Ivoire,Abidjan,2019,12,252.23
+Côte d’Ivoire,Abidjan,2020,1,354.96
+Côte d’Ivoire,Abidjan,2020,2,248.27
+Côte d’Ivoire,Abidjan,2020,3,97.02
+Côte d’Ivoire,Abidjan,2020,4,14.64
+Côte d’Ivoire,Abidjan,2020,5,348.69
+Côte d’Ivoire,Abidjan,2020,6,13.4
+Côte d’Ivoire,Abidjan,2020,7,350.51
+Côte d’Ivoire,Abidjan,2020,8,213.93
+Côte d’Ivoire,Abidjan,2020,9,375.93
+Côte d’Ivoire,Abidjan,2020,10,320.52
+Côte d’Ivoire,Abidjan,2020,11,399.18
+Côte d’Ivoire,Abidjan,2020,12,143.53
+Côte d’Ivoire,Abidjan,2021,1,308.04
+Côte d’Ivoire,Abidjan,2021,2,163.76
+Côte d’Ivoire,Abidjan,2021,3,194.55
+Côte d’Ivoire,Abidjan,2021,4,252.86
+Côte d’Ivoire,Abidjan,2021,5,350.1
+Côte d’Ivoire,Abidjan,2021,6,393.71
+Côte d’Ivoire,Abidjan,2021,7,308.47
+Côte d’Ivoire,Abidjan,2021,8,170.02
+Côte d’Ivoire,Abidjan,2021,9,171.44
+Côte d’Ivoire,Abidjan,2021,10,296.35
+Côte d’Ivoire,Abidjan,2021,11,99.32
+Côte d’Ivoire,Abidjan,2021,12,48.64
+Côte d’Ivoire,Abidjan,2022,1,145.08
+Côte d’Ivoire,Abidjan,2022,2,118.46
+Côte d’Ivoire,Abidjan,2022,3,122.04
+Côte d’Ivoire,Abidjan,2022,4,97.28
+Côte d’Ivoire,Abidjan,2022,5,21.63
+Côte d’Ivoire,Abidjan,2022,6,12.06
+Côte d’Ivoire,Abidjan,2022,7,395.15
+Côte d’Ivoire,Abidjan,2022,8,173.97
+Côte d’Ivoire,Abidjan,2022,9,156.81
+Côte d’Ivoire,Abidjan,2022,10,273.46
+Côte d’Ivoire,Abidjan,2022,11,91.21
+Côte d’Ivoire,Abidjan,2022,12,380.23
+Côte d’Ivoire,Bouaké,2018,1,315.61
+Côte d’Ivoire,Bouaké,2018,2,40.32
+Côte d’Ivoire,Bouaké,2018,3,169.94
+Côte d’Ivoire,Bouaké,2018,4,352.25
+Côte d’Ivoire,Bouaké,2018,5,378.17
+Côte d’Ivoire,Bouaké,2018,6,189.62
+Côte d’Ivoire,Bouaké,2018,7,247.3
+Côte d’Ivoire,Bouaké,2018,8,70.98
+Côte d’Ivoire,Bouaké,2018,9,396.51
+Côte d’Ivoire,Bouaké,2018,10,96.51
+Côte d’Ivoire,Bouaké,2018,11,377.38
+Côte d’Ivoire,Bouaké,2018,12,261.61
+Côte d’Ivoire,Bouaké,2019,1,245.06
+Côte d’Ivoire,Bouaké,2019,2,207.51
+Côte d’Ivoire,Bouaké,2019,3,96.11
+Côte d’Ivoire,Bouaké,2019,4,74.73
+Côte d’Ivoire,Bouaké,2019,5,92.09
+Côte d’Ivoire,Bouaké,2019,6,78.64
+Côte d’Ivoire,Bouaké,2019,7,312.94
+Côte d’Ivoire,Bouaké,2019,8,143.3
+Côte d’Ivoire,Bouaké,2019,9,27.85
+Côte d’Ivoire,Bouaké,2019,10,387.8
+Côte d’Ivoire,Bouaké,2019,11,354.1
+Côte d’Ivoire,Bouaké,2019,12,371.46
+Côte d’Ivoire,Bouaké,2020,1,397.99
+Côte d’Ivoire,Bouaké,2020,2,73.69
+Côte d’Ivoire,Bouaké,2020,3,161.52
+Côte d’Ivoire,Bouaké,2020,4,304.5
+Côte d’Ivoire,Bouaké,2020,5,279.93
+Côte d’Ivoire,Bouaké,2020,6,65.79
+Côte d’Ivoire,Bouaké,2020,7,327.25
+Côte d’Ivoire,Bouaké,2020,8,93.65
+Côte d’Ivoire,Bouaké,2020,9,93.41
+Côte d’Ivoire,Bouaké,2020,10,217.1
+Côte d’Ivoire,Bouaké,2020,11,239.21
+Côte d’Ivoire,Bouaké,2020,12,234.13
+Côte d’Ivoire,Bouaké,2021,1,41.14
+Côte d’Ivoire,Bouaké,2021,2,351.6
+Côte d’Ivoire,Bouaké,2021,3,109.91
+Côte d’Ivoire,Bouaké,2021,4,56.16
+Côte d’Ivoire,Bouaké,2021,5,356.06
+Côte d’Ivoire,Bouaké,2021,6,382.48
+Côte d’Ivoire,Bouaké,2021,7,345.54
+Côte d’Ivoire,Bouaké,2021,8,324.76
+Côte d’Ivoire,Bouaké,2021,9,263.82
+Côte d’Ivoire,Bouaké,2021,10,222.59
+Côte d’Ivoire,Bouaké,2021,11,39.36
+Côte d’Ivoire,Bouaké,2021,12,166.34
+Côte d’Ivoire,Bouaké,2022,1,152.21
+Côte d’Ivoire,Bouaké,2022,2,107.6
+Côte d’Ivoire,Bouaké,2022,3,290.75
+Côte d’Ivoire,Bouaké,2022,4,200.87
+Côte d’Ivoire,Bouaké,2022,5,37.01
+Côte d’Ivoire,Bouaké,2022,6,91.97
+Côte d’Ivoire,Bouaké,2022,7,274.89
+Côte d’Ivoire,Bouaké,2022,8,35.07
+Côte d’Ivoire,Bouaké,2022,9,341.23
+Côte d’Ivoire,Bouaké,2022,10,200.58
+Côte d’Ivoire,Bouaké,2022,11,194.83
+Côte d’Ivoire,Bouaké,2022,12,239
+Côte d’Ivoire,Korhogo,2018,1,330.75
+Côte d’Ivoire,Korhogo,2018,2,142.38
+Côte d’Ivoire,Korhogo,2018,3,272.82
+Côte d’Ivoire,Korhogo,2018,4,228.46
+Côte d’Ivoire,Korhogo,2018,5,110.48
+Côte d’Ivoire,Korhogo,2018,6,352.06
+Côte d’Ivoire,Korhogo,2018,7,319.98
+Côte d’Ivoire,Korhogo,2018,8,265.09
+Côte d’Ivoire,Korhogo,2018,9,340.98
+Côte d’Ivoire,Korhogo,2018,10,347.58
+Côte d’Ivoire,Korhogo,2018,11,284.8
+Côte d’Ivoire,Korhogo,2018,12,335.62
+Côte d’Ivoire,Korhogo,2019,1,280.5
+Côte d’Ivoire,Korhogo,2019,2,273.66
+Côte d’Ivoire,Korhogo,2019,3,249.35
+Côte d’Ivoire,Korhogo,2019,4,302.32
+Côte d’Ivoire,Korhogo,2019,5,67.65
+Côte d’Ivoire,Korhogo,2019,6,352.94
+Côte d’Ivoire,Korhogo,2019,7,349.38
+Côte d’Ivoire,Korhogo,2019,8,16.55
+Côte d’Ivoire,Korhogo,2019,9,331.2
+Côte d’Ivoire,Korhogo,2019,10,55.9
+Côte d’Ivoire,Korhogo,2019,11,137.37
+Côte d’Ivoire,Korhogo,2019,12,298.69
+Côte d’Ivoire,Korhogo,2020,1,68.5
+Côte d’Ivoire,Korhogo,2020,2,328.1
+Côte d’Ivoire,Korhogo,2020,3,333.69
+Côte d’Ivoire,Korhogo,2020,4,205.45
+Côte d’Ivoire,Korhogo,2020,5,7.52
+Côte d’Ivoire,Korhogo,2020,6,118.38
+Côte d’Ivoire,Korhogo,2020,7,248.69
+Côte d’Ivoire,Korhogo,2020,8,392.57
+Côte d’Ivoire,Korhogo,2020,9,254.57
+Côte d’Ivoire,Korhogo,2020,10,107.62
+Côte d’Ivoire,Korhogo,2020,11,255.43
+Côte d’Ivoire,Korhogo,2020,12,218.29
+Côte d’Ivoire,Korhogo,2021,1,313.04
+Côte d’Ivoire,Korhogo,2021,2,47.26
+Côte d’Ivoire,Korhogo,2021,3,305.61
+Côte d’Ivoire,Korhogo,2021,4,218.8
+Côte d’Ivoire,Korhogo,2021,5,385.38
+Côte d’Ivoire,Korhogo,2021,6,140.04
+Côte d’Ivoire,Korhogo,2021,7,254.89
+Côte d’Ivoire,Korhogo,2021,8,373.15
+Côte d’Ivoire,Korhogo,2021,9,45.49
+Côte d’Ivoire,Korhogo,2021,10,375.21
+Côte d’Ivoire,Korhogo,2021,11,276.71
+Côte d’Ivoire,Korhogo,2021,12,31.8
+Côte d’Ivoire,Korhogo,2022,1,123.88
+Côte d’Ivoire,Korhogo,2022,2,284.73
+Côte d’Ivoire,Korhogo,2022,3,31.6
+Côte d’Ivoire,Korhogo,2022,4,234.96
+Côte d’Ivoire,Korhogo,2022,5,141.62
+Côte d’Ivoire,Korhogo,2022,6,250.26
+Côte d’Ivoire,Korhogo,2022,7,23.07
+Côte d’Ivoire,Korhogo,2022,8,349.26
+Côte d’Ivoire,Korhogo,2022,9,389.53
+Côte d’Ivoire,Korhogo,2022,10,387.71
+Côte d’Ivoire,Korhogo,2022,11,301.11
+Côte d’Ivoire,Korhogo,2022,12,56.38
